@@ -1,0 +1,11 @@
+1. Scaffold frontend with HTML forms, JS
+
+2. Generate datasets using C++
+
+3. Explore distribution of datasets
+
+4. Generate plots using py / matplotlib, save to svg
+
+5. Update page with new images
+
+6. Write some paragraphs about methodologies
