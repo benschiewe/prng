@@ -1,0 +1,19 @@
+{
+  "name": "prng",
+  "version": "1.0.0",
+  "description": "A project exploring statistical measures in PRNG-generated datasets using Node and D3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benschiewe/prng.git"
+  },
+  "author": "Ben Schiewe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benschiewe/prng/issues"
+  },
+  "homepage": "https://github.com/benschiewe/prng#readme"
+}
