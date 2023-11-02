@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/benschiewe/prng/issues"
   },
-  "homepage": "https://github.com/benschiewe/prng#readme"
+  "homepage": "https://github.com/benschiewe/prng#readme",
+  "dependencies": {
+    "@stdlib/random-base-mt19937": "^0.1.0"
+  }
 }
